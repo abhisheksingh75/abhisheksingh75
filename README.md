@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-9cf)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-9cf)
-![Reactjs](https://img.shields.io/badge/Reactjs-Intermediate-9cf)
+![CSS](https://img.shields.io/badge/CSS-Expert-9cf)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-9cf)
+![Reactjs](https://img.shields.io/badge/Reactjs-Expert-9cf)
+![Nodejs](https://img.shields.io/badge/Nodejs-Expert-9cf)
 
 
 CSE '17 Passout Grad.
